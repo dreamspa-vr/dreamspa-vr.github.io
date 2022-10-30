@@ -43,9 +43,9 @@ add code snippet heere with the details
 ### Moon Asset
 
 ### Outsourced Assets
-*   This is an unordered list following a header. <add link> next line add images
-*   This is an unordered list following a header. <add link> next line add images
-*   This is an unordered list following a header. <add link> next line add images
+*   This is an unordered list following a header. add link next line add images
+*   This is an unordered list following a header. add link next line add images
+*   This is an unordered list following a header. add link next line add images
 
 <!---
 comment image ref for now
