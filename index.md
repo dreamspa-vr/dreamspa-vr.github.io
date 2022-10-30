@@ -8,8 +8,9 @@ layout: default
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F_0fnpmMpqM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # What is DreamSpaVR?
-
-insert long descrition
+Indulge your eyes with geometric shapes and colors. Along with relaxing music. 
+Take a moment to destress and recenter. Studies show that kaleidoscopes help people focus and lower cortisol levels.
+Daydream on demand with DreamSpaVR.
 
 ## How to play the game
 1.  This is an ordered list following a header.
@@ -23,7 +24,12 @@ insert long descrition
 
 # DreamSpa VR Assets
 ### Specs need for assets
-add code snippet heere with the details
+* [Engine] Unity [Version] 2021.3.0f1
+* [Package] Oculus XR Plugin [Version] 3.0.2
+* [Package] Universal RP [Version] 12.1.6
+* [Package] XR Interaction toolkit [Version] 2.1.1
+* [Package] XR Plugin Management [Version] 4.2.1
+
 
 ### Lobby Structure Asset
 
@@ -44,3 +50,4 @@ add code snippet heere with the details
 ## Contact Information
 email: <the.dreamspa.nyc@gmail.com>
  
+# Downloadables
