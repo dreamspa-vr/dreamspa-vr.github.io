@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<!---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -9,23 +10,52 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+-->
+[REMOVE THIS ONCE READY.. click here to download DreamSpas zip folder containing the apk file.](#custom_anchor_name)
 
-# Header 1
-please work
+# DreamSpa VR Trailer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F_0fnpmMpqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# What is DreamSpaVR?
+
+insert long descrition
+
+## How to play the game
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+## Instructions to install the game
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header. 
+
+# DreamSpa VR Assets
+### Specs need for assets
+add code snippet heere with the details
+
+### Lobby Structure Asset
 
 
-# Header 1
+### Floating Table Asset
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+### Moon Asset
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Outsourced Assets
+*   This is an unordered list following a header. <add link> next line add images
+*   This is an unordered list following a header. <add link> next line add images
+*   This is an unordered list following a header. <add link> next line add images
 
-### Header 3
+![Book yee logo](./assets/images/image.png)
 
+## Known bugs
+
+## Contact Information
+email: <the.dreamspa.nyc@gmail.com>
+ 
+
+<!---
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -125,3 +155,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
