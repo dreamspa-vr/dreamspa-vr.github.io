@@ -47,7 +47,10 @@ add code snippet heere with the details
 *   This is an unordered list following a header. <add link> next line add images
 *   This is an unordered list following a header. <add link> next line add images
 
+<!---
+comment image ref for now
 ![Book yee logo](/assets/images/image.png)
+-->
 
 ## Known bugs
 
