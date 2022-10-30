@@ -5,7 +5,6 @@ layout: default
 [REMOVE THIS ONCE READY.. click here to download DreamSpas zip folder containing the apk file.](#custom_anchor_name)
 
 # DreamSpa VR Trailer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F_0fnpmMpqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # What is DreamSpaVR?
 
