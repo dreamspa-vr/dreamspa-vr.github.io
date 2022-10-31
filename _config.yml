@@ -1,6 +1,6 @@
 title: DreamSpa VR
-description: A virtual reality, kaleidoscope based meditative experience. Feels like a dream.
+description: A virtual reality, kaleidoscope based meditative experience. Almost feels like a dream.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-time-machine
-markdown: kramdown
+markdown: 

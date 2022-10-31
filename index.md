@@ -1,43 +1,39 @@
 ---
 layout: default
 ---
-
-[REMOVE THIS ONCE READY.. click here to download DreamSpas zip folder containing the apk file.](#custom_anchor_name)
-
 # DreamSpa VR Trailer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F_0fnpmMpqM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# What is DreamSpaVR?
-[go](https://stackoverflow.com){:target="_blank" rel="noopener"}
-
+## What is DreamSpaVR?
 Indulge your eyes with geometric shapes and colors. Along with relaxing music. 
 Take a moment to destress and recenter. Studies show that kaleidoscopes help people focus and lower cortisol levels.
 Daydream on demand with DreamSpaVR.
 
 ## How to play the game
-1.	Left hand is to used to teleport, grip and press trigger once you see a glowing light at the end of the black raycast line
-2.	Right hand is to grab, grip to trigger the orb and transition to a new scene
-3.	Up down to look at opposite ends of the kaleidoscope tunnel, although you can move your camera head, it would be better to use the stick to rotate in the scene, with left right up down directions
+1.	Left hand controller is used to teleport, grip and press the trigger butons once you see a glowing light at the end of the black raycast line coming out of the left hand.
+2.	Right hand controller is used to grab, grip and press the trigger the glowing orb in order to transition to a new scene.
+3.	Use controllers joystick to rotate camera around. Up ,down to look at opposite ends of the kaleidoscope tunnel, although you can move your camera head, it would be better to use the joystick to rotate in the scene to minimize dizziness.
 4.	Glowing orb will transport you to a soothing kaleidoscope experiences!
-5.	Oculus button to exit app
+5.	Use the Oculus button to bring menu in order to exit app.
 
 ## Instructions to install the game
-1.	Install tester app, set up oculus to have developer mode and all that jazz
-2.	Head to link
-3.	Download zip
-4.	decompress zip folder, there should be a .apk file
-5.	Start your Oculus Quest 2 headset
-6.	open unknown resources and play the app you just downloaded
+1.	Install SideQuest, set up your Oculus Quest 2 headset to have developer mode.
+2.	Download the app prototypes .apk file [here](https://drive.google.com/file/d/1nbw5XkIBcDVq57iSBpVyk3XURxQMKTC8/view?usp=sharing){:target="_blank" rel="noopener"}.
+3.	Start your Oculus Quest 2 headset
+4.	Go to the "App Library" 
+5.	On top right, expland drop down labled "All (X)".	 // the X is a number relvant to your device
+6.	Then select "Unknown Sources (X)".					 // the X is a number relvant to your device
+7.	Then select Dreamspa_NYC, once selected the application will start.
 
 # DreamSpa VR Assets
 ### Specs needed for assets
+* [Hardware] Oculus Quest 2
 * [Engine] Unity [Version] 2021.3.0f1
 * [Package] Oculus XR Plugin [Version] 3.0.2
 * [Package] Universal RP [Version] 12.1.6
 * [Package] XR Interaction toolkit [Version] 2.1.1
 * [Package] XR Plugin Management [Version] 4.2.1
 
-
+<!--
 ### Lobby Structure Asset
 
 
@@ -47,18 +43,26 @@ Daydream on demand with DreamSpaVR.
 ### Moon Asset
 todo: work in progress
 
+
 ### Outsourced Assets
 *   asset 1
 *   asset 2
 *   asset 3
+--> 
+## Screen Captures Of Prototype
+<img src="/assets/images/landingView.png" width="300" height="300" /> <img src="/assets/images/viewByOrb.png" width="300" height="300" />
+<img src="/assets/images/treesSky.png" width="300" height="300" /> <img src="/assets/images/handInOrb.png" width="300" height="300" />
+<img src="/assets/images/inTunnel.png" class="center" width="300" height="300" /> <img src="/assets/images/landingView.png" width="300" height="300" />
 
-## Screen captures of app
-todo need to add
-
-## Known bugs
-list known bugs here
-
+## Known Bugs
+* Trees sometimes rotate
+* Screen unloading and loading sometimes take a few seconds
+* XR orign sometimes shift in Unity
 ## Contact Information
-email: <the.dreamspa.nyc@gmail.com>
+Email: <the.dreamspa.nyc@gmail.com>
  
+<!--
+[go](https://stackoverflow.com){:target="_blank" rel="noopener"}
+-->
+
 # Downloadables
