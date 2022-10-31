@@ -33,22 +33,6 @@ Daydream on demand with DreamSpaVR.
 * [Package] XR Interaction toolkit [Version] 2.1.1
 * [Package] XR Plugin Management [Version] 4.2.1
 
-<!--
-### Lobby Structure Asset
-
-
-### Floating Table Asset
-
-
-### Moon Asset
-todo: work in progress
-
-
-### Outsourced Assets
-*   asset 1
-*   asset 2
-*   asset 3
---> 
 ## Screen Captures Of Prototype
 <img src="/assets/images/landingView.png" width="300" height="300" /> <img src="/assets/images/viewByOrb.png" width="300" height="300" />
 <img src="/assets/images/treesSky.png" width="300" height="300" /> <img src="/assets/images/handInOrb.png" width="300" height="300" />
@@ -61,8 +45,4 @@ todo: work in progress
 ## Contact Information
 Email: <the.dreamspa.nyc@gmail.com>
  
-<!--
-[go](https://stackoverflow.com){:target="_blank" rel="noopener"}
--->
-
 # Downloadables
