@@ -34,9 +34,9 @@ Daydream on demand with DreamSpaVR.
 * [Package] XR Plugin Management [Version] 4.2.1
 
 ## Screen Captures Of Prototype
-<img src="/assets/images/landingView.png" width="300" height="300" /> <img src="/assets/images/viewByOrb.png" width="300" height="300" />
-<img src="/assets/images/treesSky.png" width="300" height="300" /> <img src="/assets/images/handInOrb.png" width="300" height="300" />
-<img src="/assets/images/inTunnel.png" class="center" width="300" height="300" /> <img src="/assets/images/landingView.png" width="300" height="300" />
+<img src="/assets/images/landingView.png" width="300" height="300" alt="" /> <img src="/assets/images/viewByOrb.png" width="300" height="300" alt="" />
+<img src="/assets/images/treesSky.png" width="300" height="300" alt="" /> <img src="/assets/images/handInOrb.png" width="300" height="300" alt=""/>
+<img src="/assets/images/inTunnel.png" class="center" width="300" height="300" alt="" /> <img src="/assets/images/landingView.png" width="300" height="300" alt="" />
 
 ## Known Bugs
 * Trees sometimes rotate
