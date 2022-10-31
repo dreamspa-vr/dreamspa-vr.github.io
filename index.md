@@ -19,12 +19,13 @@ Daydream on demand with DreamSpaVR.
 4.	Glowing orb will transport you to a soothing kaleidoscope experiences!
 5.	Oculus button to exit app
 
-
-
 ## Instructions to install the game
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header. 
+1.	Install tester app, set up oculus to have developer mode and all that jazz
+2.	Head to link
+3.	Download zip
+4.	decompress zip folder, there should be a .apk file
+5.	Start your Oculus Quest 2 headset
+6.	open unknown resources and play the app you just downloaded
 
 # DreamSpa VR Assets
 ### Specs needed for assets
@@ -48,8 +49,11 @@ Daydream on demand with DreamSpaVR.
 *   This is an unordered list following a header. add link next line add images
 *   This is an unordered list following a header. add link next line add images
 
+## Screen captures of app
+todo need to add
 
 ## Known bugs
+list known bugs here
 
 ## Contact Information
 email: <the.dreamspa.nyc@gmail.com>
