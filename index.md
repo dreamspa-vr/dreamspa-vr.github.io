@@ -13,9 +13,13 @@ Take a moment to destress and recenter. Studies show that kaleidoscopes help peo
 Daydream on demand with DreamSpaVR.
 
 ## How to play the game
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.	Left hand is to used to teleport, grip and press trigger once you see a glowing light at the end of the black raycast line
+2.	Right hand is to grab, grip to trigger the orb and transition to a new scene
+3.	Up down to look at opposite ends of the kaleidoscope tunnel, although you can move your camera head, it would be better to use the stick to rotate in the scene, with left right up down directions
+4.	Glowing orb will transport you to a soothing kaleidoscope experiences!
+5.	Oculus button to exit app
+
+
 
 ## Instructions to install the game
 1.  This is an ordered list following a header.
@@ -23,7 +27,7 @@ Daydream on demand with DreamSpaVR.
 3.  This is an ordered list following a header. 
 
 # DreamSpa VR Assets
-### Specs need for assets
+### Specs needed for assets
 * [Engine] Unity [Version] 2021.3.0f1
 * [Package] Oculus XR Plugin [Version] 3.0.2
 * [Package] Universal RP [Version] 12.1.6
