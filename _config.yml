@@ -3,4 +3,4 @@ description: A virtual reality, kaleidoscope based meditative experience. Almost
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-time-machine
-markdown: 
+markdown: kramdown
