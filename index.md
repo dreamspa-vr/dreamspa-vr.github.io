@@ -8,6 +8,8 @@ layout: default
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F_0fnpmMpqM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # What is DreamSpaVR?
+[go](https://stackoverflow.com){:target="_blank" rel="noopener"}
+
 Indulge your eyes with geometric shapes and colors. Along with relaxing music. 
 Take a moment to destress and recenter. Studies show that kaleidoscopes help people focus and lower cortisol levels.
 Daydream on demand with DreamSpaVR.
